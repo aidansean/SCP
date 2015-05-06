@@ -1,0 +1,133 @@
+#/usr/bin/python
+import urllib2, random, re, sys, textwrap, time
+from xml.dom import minidom
+
+line_delay = 0.01
+nWrap = 120
+desc_width = 50
+desc_delay_lower = 0.2
+desc_delay_upper = 0.7
+
+line_break_words = ['Addendum' , 'Description' , 'Object Class' , 'Special Containment Procedures' , 'Item #']
+
+def getText(node):
+    results = []
+    for child in node.childNodes:
+        if child.nodeType == node.TEXT_NODE:
+            for lbw in line_break_words:
+                if lbw in child.data:
+                    results.append('\n')
+            results.append(child.data)
+        else:
+            for t in getText(child):
+                results.append(t)
+    return ''.join(results)
+
+def wrap_line(line, wrap):
+    if wrap == None:
+        wrap = nWrap
+    words = line.split(' ')
+    lines_out = []
+    text = ''
+    for w in words:
+        length = len(text) + 1 + len(w)
+        if length > wrap:
+            lines_out.append(text.lstrip())
+            text = w
+        else:
+            text = text + ' ' + w
+    lines_out.append(text.lstrip())
+    return lines_out
+
+def banner(text):
+    lines = wrap_line(text, nWrap-4)
+    print '%s'%'='*nWrap
+    for l in lines:
+        padding = nWrap - len(l) - 5
+        print '== %s%s=='%(l.encode('utf-8'),' '*padding)
+    print '%s'%'='*nWrap
+
+argument = '%d'%random.randrange(2000)
+if len(sys.argv)>1:
+    argument = sys.argv[1]
+if len(argument)==1:
+    argument = '0'+argument
+if len(argument)==2:
+    argument = '0'+argument
+
+if argument == 'help':
+    print 'Usage: python scp.py <arg>'
+    print '<arg> can be:'
+    print ' - An SCP number (eg "914"): that SCP description gets written to the terminal.'
+    print ' - A log name, (eg "experiment-log-914"): that log file gets written to the terminal.'
+    print ' - An empty string: a random SCP description gets written to the terminal.'
+    print ' - "help": this help text gets written to the terminal.'
+    print
+    print 'For best results, pipe the output onto less:'
+    print 'python scp.py | less'
+    sys.exit()
+
+url = 'http://www.scp-wiki.net/scp-'+argument
+
+try:
+    response = urllib2.urlopen(url)
+except urllib2.HTTPError, e:
+    try:
+        url = 'http://www.scp-wiki.net/'+argument
+        response = urllib2.urlopen(url)
+    except urllib2.HTTPError, e:
+        banner('RETRIEVAL FAILED WITH ERROR %s'%e.code)
+        sys.exit()
+
+login_descriptors = []
+login_descriptors.append('Initiating connection')
+login_descriptors.append('Establishing identity')
+login_descriptors.append('Authorising credentials')
+login_descriptors.append('Logging access request')
+login_descriptors.append('Verifying access permissions')
+login_descriptors.append('Querying database')
+login_descriptors.append('Retrieving data')
+
+banner('COMMENCE RETRIEVAL (SCP-%s)'%argument)
+for desc in login_descriptors:
+    delay = 0.1*random.randrange(desc_delay_lower*10,desc_delay_upper*10)
+    sys.stdout.write(desc)
+    ndots = desc_width - len(desc)
+    delta_delay = delay/ndots
+    for i in range(0,ndots):
+        time.sleep(delta_delay)
+        sys.stdout.write('.')
+        sys.stdout.flush()
+    print ' done'
+html = response.read()
+
+xmldoc = minidom.parseString(html)
+
+content_div = None
+divs = xmldoc.getElementsByTagName('div')
+for d in divs:
+    attrs = dict(d.attributes.items())
+    if 'id' in attrs:
+        if attrs['id'] == 'page-content':
+            content_div = d
+            break
+if content_div == None:
+    print 'ERROR: File content not found.'
+    print '       Current access log data expunged.'
+    print '       Connection terminated.'
+    sys.exit()
+else:
+    text = getText(d)
+    while '\n\n\n' in text:
+        text = text.replace('\n\n\n', '\n\n')
+    text = text.lstrip()
+    text = text.rstrip()
+    lines = text.split('\n')
+    banner('BEGIN CONTAINMENT PROCEDURES')
+    for l in lines:
+        wrapped_line = wrap_line(l,nWrap)
+        for wl in wrapped_line:
+            print wl.encode('utf-8')
+        time.sleep(line_delay)
+    banner('END CONTAINMENT PROCEDURES')
+    print

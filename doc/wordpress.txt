@@ -1,0 +1,22 @@
+[mathjax]
+
+Here is where I put my content relevant to the SCP Wiki.
+
+<h3>Links</h3>
+
+<a href="http://www.scp-wiki.net/">SCP Wiki</a>
+<a href="https://github.com/aidansean/SCP">GitHub repository</a>
+
+<h3>Overview</h3>
+
+The SCP Wiki is description of a fictional emergency containment facility.  This project collects mostly attempts at writing articles, and anything else relevant to the SCP, including the python script.
+
+<h3>Challenges</h3>
+<dl>
+<dt><em>Challenge</em>: The python script has to make an HTTP request and keep the user entertained while it handles the request.</dt>
+
+<dd><em>Solution</em>: This was the first time I used python with HTTP requests, which turned out to be quite easy.  The script produces a series of messages to emulate the security steps needed to access the articles. (Resolved)</dd>
+<dt><em>Challenge</em>: It would be nice to have ASCII images appear.</dt>
+
+<dd><em>Solution</em>: Most SCP articles contain small images, and I've already worked with <a href="http://aidansean.com/projects/?p=17">ASCII art</a> elsewhere, so it should be a matter of putting the two together, when I get time. (To be done)</dd>
+</dl>
