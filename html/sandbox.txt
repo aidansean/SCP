@@ -1,0 +1,122 @@
+[[tabview]]
+[[tab Expanding sand]]
+
+[[include component:image-block name=Sterilization-Tank.jpg|caption=A retrofitted high pressure tank used to contain SCP-XXXX-2.]]
+
+**Item #:** SCP-XXXX
+
+**Object Class:** Euclid
+
+**Special Containment Procedures:** SCP-XXXX consists of four samples (known as SCP-XXXX-2 through 5) and an off-site contained mass, known as SCP-XXXX-1.  SCP-XXXX-2 through 5 are located in the basement of Site-19, protected by two air tight doors, in addition to the door to the containment chamber itself.  The samples must be kept in a locked, airtight containment chamber no larger than 100 m^^3^^ at all times.  Each sample must be kept in at least three nested, hermetically sealed vessels which must remain placed on automatic pressure sensors.  If the mass of a sample is found to increase by more than 1% the relevant pressure sensor will activate an alarm indicating a primary vessel breach.  In such circumstances an additional vessel must fitted around the existing vessels without delay.  A tank containing 100 m^^3^^ of water is maintained above the chamber, and can flood the chamber in the case of catastrophic containment breach.
+
+SCP-XXXX-1 is located offsite in the Sahara Desert at 21°5█'██"N 33°4█'██"E.  It is encased by two large nested concrete structures with walls 0.4-0.6m thick which are hermetically sealed.  The floor of the cavity of the outer vessel is continually lit by multiply redundant floodlights and continually monitored by redundant CCTV equipment.  All electrical equipment is separated from the main cavity by 10cm thick reinforced glass.  SCP-XXXX-1 currently occupies a space measuring 24.3 x 18.6 x 5.2 m and has a mass of 3.95 x 10^^6^^ kg.  The outer vessel is sealed from the surrounding area with high security fencing and signage suggesting the site is a nuclear waste dump.
+
+**Description:** SCP-XXXX-1 is a large mass of common sand with the anomalous property whereby the grains spontaneously replicate, increasing the occupied mass and volume of sand in all available directions at an effective speed of 0.12 cms^^-1^^.  The mass of sand will continue to increase occupying all available space until resistance is encountered.  Tests to date show that a pressure of 350 kPa is sufficient to prevent further expansion (with the exception of the two incidents noted below).  Tests indicate that at least 130 g of sand must accumulate before expansion of the sample resumes.  Immersing samples in water had been found to prevent further mass growth, provided the water maintains a sufficiently high ambient pressure.
+
+The first sample was recovered from the Sahara Dessert in October 19██ following an unusually violent sand storm in the region where high winds caused continual movement of sand, despite no significant change in the local landscape.  After the end of the storm the local dunes were observed to increase in size at an unnatural rate and the existing structure was built as an emergency measure to contain the sand until further study became possible.
+
+Studies show somewhat unpredictable behaviour of the sand.  In some cases the mass of sand has been shown to not increase over time, with periods of inactivity ranging from several minutes upwards.  Despite available space SCP-XXXX-3 has not increased in mass since March 30th 20██.  In two instances the sand has breached vessels capable of sustaining 1.3 MPa and 1.8 MPa resistances.  In both cases the mass of sand continued to expand until the volume of the second vessel was filled.
+
+**Addendum I:** Samples can only be studied with express permission of personnel with clearance level 3 or higher.  Inspection must take place in a hermetically sealed containment chamber where the door is at least 0.5 m higher than the floor.  All tests are to be carried out within or above the dedicated testing boxes.  In the case of failure the samples must be able to fall under gravity into the testing boxes which will should then be sealed.  Sealed testing boxes must then be stored in at least two further vessels and (if necessary) assigned new labels as SCP-XXXX samples.  Creation of new samples of SCP-XXXX is forbidden until further notice.
+
+**Addendum II:** Since acquiring the samples there have been ██ suspected cases of  additional occurences of SCP-XXXX throughout the world, including significant observations in Morocco, Chile, Afghanistan, the USA and Italy.  ██ cases have been identified by geologists as having natural causes.  █ cases remain unexplained, but are contained by surrounding infrastructure, including isolated caves and abandoned buildings.
+[[/tab]]
+[[tab Radioacive bacteria]]
+**Item #:** SCP-XXXX
+
+**Object Class:** Safe
+
+**Special Containment Procedures:** SCP-XXXX must be contained in a room hermetically lined with at least 0.5 m of lead or 2.5 m of concrete at all times.  Personnel are to wear standard biohazard protective clothing when working with SCP-XXXX specimens, which should be disposed of in a radioactive waste dump.  Radiation sensors are fitted near each instance of SCP-XXXX and are monitored remotely.  Signifncant changes in readings are to be noted and reported.
+
+Any persons affected by SCP-XXXX must be quarantined in a radiation resistant chamber, and must not be allowed direct contact with any other living entity.  Upon death the chamber must remain locked until the body can be safely burned.
+
+**Description:** SCP-XXXX consists of 36 samples of bacteria culture (SCP-XXXX-1, through SCP-XXXX-36) arranged on several labatory work stations, each equipped with radiation sensors which are attached to two redundant servers.  Each sample contains a slightly different strain of bacteria which share similar characteristics.  A typical strain has a life cycle of extended dormancy, lasting from several weeks to several years, followed by a reproductive period which can last between several minutes and up to 48 hours.  During the reproductive cycle the strains of bacteria emit large amounts of ionising radiation, ranging in energies from 5 eV to 8000 eV, with an average rate of dose of 12 Bq per bacterium.  Following reproduction the bacteria remain dormant, passing through several other hosts until the "target" host species is reached, at which point the life cycle repeats.
+
+Due to the high levels of radiation manifest during the reproductive period, strains of SCP-XXXX are radiation hard relative to other bacteria, and capable of rapid mutation.  Most strains are adapted to particular host species, with host species including aquatic flora, deep sea fish, sea birds and (for the most recent strains) agricultural flora and land mammals.
+
+The first known instance of SCP-XXXX was found on the island of ████████ in the Pacific Ocean in June 201█.  Hauls from local fishing boats were found to be contaminated with SCP-XXXX-1 following the deaths of eight villagers.  Autopsies revealed high levels of radiation, consistent with a reproductive period of SCP-XXXX, although the public was informed that the deaths were due to Mercury poisoning.  During the following months more strains of SCP-XXXX were discovered in various host species including gulls, seaweed, and two species of fern.  Despite efforts to contain and quarantine the area, strains have been found in cow and sheep hosts, as well as two strains adapted to human hosts. In one case the life cycle is as normal, and the host experiences rapid radiation sickness over the course of several days, which is fatal in all cases, and dangerous to all those around.  In the other case the strain enters the blood stream and attaches itself to the spinal column and close to the brain stem.  The reproductive period for this strain is less intense and lasts several weeks.  Common symptoms include muscle spasms, pain radiating from the lower back and along limbs, memory loss, irritability, seizures, acute radiation sickness, and in the final stages, open wounds developing on the back.  These wounds heal very slowly, if at all, and produce large amounts of radioactive pus.  Hosts die either from other opportunistic infections, or chronic radiation sickness.
+[[/tab]]
+
+[[tab Duck face]]
+
+[[include component:image-block name=duckfaceSmall.jpg|caption=A host infected with spores from SCP-XXXX.  The host expired of acute blood loss 34 mintues after this photograph was taken.]]
+
+**Item #:** SCP-XXXX
+
+**Object Class:** Safe
+
+**Special Containment Procedures:** SCP-XXXX is contained in a biological containment chamber fitted with a pool of water.  Food is to provided daily, and the containment chamber is to be cleaned every 30 days.  When there are more than fifty adult specimens present, a cull should be carried out until 10-20 male and female specimens remain.  The expired specimens are to be burned immediately.  Only class D personnel may enter the chamber, and must wear standard biological protective clothing.  Anyone infected by SCP-XXXX spores is to be detained and quarantined without delay, and when they expire, their body is to be incinerated.
+
+**Description:** SCP-XXXX is a flock of many infected common ducks (Anas platyrhynchos domestica) which, apart from their anomalous properties, appear normal.  The feathers of a specimen of SCP-XXXX are coated with a fungus, which exists in a symbiotic relationship with the duck.  Separately, the fungus and a duck do not have any special properties.  In the presence of the fungus the fertility of the ducks increases, leading to a breeding season every 35 days, and a typical clutch size of 22 eggs.  When the fungus comes into contact with other animal matter, it secretes microscopic spores, typically releasing hundreds of spores in a single event.
+
+Upon making contact, these spores move through the host's skin, making contact with the host's bloodstream.  They then propagate to different regions of the host and deposit duck ova.  Over the course of 9 days these ova will grow into ducklings, using the host's body as an incubator and connecting directly to the host's bloodstream via a rudimentary umbilical cord.  Removal of ova can be fatal, due to resulting blood loss and sepsis.  Ova at the core of the host's body do not lead to viable instances of SCP-XXXX, but often lead to organ failure of the host.  Ova near the surface of the skin cause the skin to dry out and harden.  These ova will eventually hatch, giving rise to new instances of SCP-XXXX infants, which are clones of their parents.  Within a few hours of hatching the umbilical cords connecting these ducklings to the host will fall off, and the new instances of SCP-XXXX will act like normal ducklings.  To date no infected hosts have survived interaction with SCP-XXXX spores.
+[[/tab]]
+
+[[tab Library of confusion]]
+[[include component:image-block name=mapsSmall.jpg|caption=Three documents from the SCP-XXXX archive.]]
+
+**Item #:** SCP-XXXX
+
+**Object Class:** Safe
+
+**Special Containment Procedures:** SCP-XXXX is currently locked in a standard containment chamber at site 28.  Copies of SCP-XXXX are available to any personnel on request.
+
+**Description:** SCP-XXXX is a collection of antique documents, including 583 maps, 1202 historical documents, and 34 works of poetry and dramatic works.  SCP-XXXX was recovered from the library of an abandoned mansion in ████████████, CT, USA is 195█.  Copies of SCP-XXXX have been studied in detail and are found to be of very high accuracy and have been useful in many academic studies.
+
+Study of the original documents has two side effects.  The immediate effect is to increase a sense of curiosity in the content of the documents.  When exposed to a single document (a map of New York City from 1902) a test subject spent 4.5 hours studying the document before reluctantly being removed from the room with the application of some force.  When presented with a replica of the same document another test subject got bored after studying it for 3 minutes.  When presented with the original document the same test subject sat for over 2 hours studying it before being forcibly removed.
+
+The second effect is only noticeable in the following weeks.  A test subject will be unable to process new information in a coherent manner, although they will not be aware of this effect.  They will be able to recall a similar amount of information as a normal person, but the factual accuracy will be very unreliable.  This is demonstrated in the following log:
+
+> SCP-XXXX log 1
+>
+> Dr ██████: Can you describe what happened when you looked at the documents from SCP-XXXX?
+> D-1938: I was in the SCP-XXXX room, the uh, library, and I was looking at what was there.
+> Dr ██████: How long were you there and what did you look at?
+> D-1938: I spent three days there.  I was allowed to sleep in a room nearby, which was very nice because I wanted to spend a long time in there.  I was mostly looking at the plays of Elderman and astronomical studies of de Large.  Did you know that passage of Mars...
+> Dr ██████: Please answer the following questions.  You studied SCP-XXXX 23 days ago.  What did you do since that time?
+> D-1938: For the first week I stayed on site and mostly played tennis.  Then I travelled to Venice for a few days.  It was very nice but the weather was very bad.  Then I had to eat meatloaf for a week.  I didn't like that.
+> Dr ██████: Why did you go to Venice?
+> D-1938: My daughter called me up and told me that a chimpanzee had escaped from a zoo and the mayor had to resign.  I had a cold that day and so we went to the hospital.
+> Dr ██████: Why did you go to Venice?
+> D-1938: I had a Mars bar.  There was wrestling on the TV and then the doctor said there was bad news.  I couldn't open the door because I lost the keys, they were down the back of the sofa.
+> Dr ██████: Why did you go to Venice?
+> D-1938: I was at the cinema because I couldn't use my wrist anymore.  My daughter found out I was sleeping with a hooker, which was very embarrassing.  We went to Venice the next day.
+> Dr ██████: Is that what you really think happened in the past three weeks?
+> D-1938: Yes.  I already told you all this.
+> Dr ██████: Here is a written record prepared by Dr ███ who has been moniroting your behaviour.  "D-1938 continued his daily duties for several days.  After four days he expressed an interest in tennis and started to play on-site in the afternoons.  Due to an injury to his right arm sustained while playing tennis he was taken to a local hospital.  It was found that his wrist was sprained and put into a splint.  He showed signs of concussion and amnesia, and was asked to stay overnight.  His daughter came to visit and they watched television.  Interview with his daughter reveals that they watched the local news with a report about the Mayor's resignation and an incident at the local zoo.  Upon leaving the hospital D-1938 was unable to play tennis in the afternoon so he visited the cinema instead.  One afternoon I told him about my vacation in Venice while we ate meatloaf in the cafeteria.  We agreed to meet for lunch the next day, but D-1938 was late, claiming he couldn't find his keys.  We had meatloaf again and I asked him to report to Dr ██████ for an interview."  What do you have to say about that?
+> D-1938: Well, that's what I told you.
+> Dr ██████: You said you went to Venice, but you didn't.  Dr ███ went to Venice and told you about it.
+> D-1938: Right.
+> Dr ██████: So why did you say you went to Venice?
+> D-1938: I did go to Venice.
+> Dr ██████: And Dr ███ told you about his vacation?
+> D-1938: He told me about my vacation.  It was only a few hours ago.
+> Dr ██████: It was four days ago.
+
+D-1938 continued to mix up his memories and retained inconsistent information for another two weeks before his capacity to form meaningful memories returned.  Any new information learned during the five week period contained conflicts and internal inconsistencies.  For example D-1938 took a short history course and despite numerous attempts to persuade him otherwise, D-1938 is convinced that in 1815 Columbus cured polio.
+
+Due to the cognito hazards posed by SCP-XXXX no personnel who has had direct contact with any of the documents that make up SCP-XXXX can work on any Euclid or Keter SCPs without appropriate psychological testing.
+[[/tab]]
+
+[[tab Weather monitor]]
+**Item #:** SCP-XXXX
+
+**Object Class:** Safe
+
+**Special Containment Procedures:** SCP-XXXX is kept in a standard containment chamber.  SCP-XXXX must remain turned off at all times, and cannot be used without express permission of at least two level 4 personnel.
+
+**Description:** SCP-XXXX is a commercial laptop computer with a program called "Weather the Storm", operating under Windows 7.  This program claims to be able to predict the weather at any point on the Earth with >99% accuracy up to three months from the present day, depending on the geographical location under consideration.  Request for reports can be automated, with a default frequency of one report per day per region of interest.  SCP-XXXX does not need to be connected to the internet to provide reports, and all methods of connection (wifi, bluetooth, ethernet) have been disabled permanently.  Tests of the reports have shown that the predictions of cloud cover, precipitation, temperature, pressure, and humidity match the actual data in 99.85% of all cases.
+
+Reports from SCP-XXXX have be used to successfully predict two earthquakes, one tsunami, three hurricanes, seventeen forest or brush fires, 134 lightning storms, and 38 serious incidents of flooding across the world over an eight week period.  The cumulative death toll of these incidents was in excess of 35,000 people.  Warnings of these events were shared with local authorities, and humanitarian organisations estimate that without these warnings the death toll would have been in excess of 500,000 people.  Statistical analysis of the reports show the following result: When a report is requested for a given region at a given time, the probability of an extreme meteorological or seismological event taking place is 7.8 times larger than normal, and the number of fatalities is 25 times higher than normal.  As a result it is believed that SCP-XXXX is not predicting these events, but causing them.  All future testing is therefore forbidden until further notice.
+[[/tab]]
+
+[[tab Template]]
+**Item #:** SCP-XXXX
+
+**Object Class:** Safe
+
+**Special Containment Procedures:** SCP-XXXX
+
+**Description:** SCP-XXXX 
+[[/tab]]
+[[/tabview]]
